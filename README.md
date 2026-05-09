@@ -1,5 +1,6 @@
 # OperatorApp
 
+
 AI-augmented customer support for e-commerce — live chat that translates between operator and customer in real time, surfaces context (cart, orders, page history, sentiment) as it becomes relevant, and lets operators answer from a private knowledge base with one click.
 
 > 📹 **Demo videos:** the [`LINKTOVIDEOS.txt`](./LINKTOVIDEOS.txt) file links to a Drive folder showing the project end-to-end. **Start with the intro video.**
